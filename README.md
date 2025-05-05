@@ -58,8 +58,36 @@ I'm open to contributing to open source projects. I'd love to learn and give bac
 
 ### 📊 GitHub Stats
 
-![Alberto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlbertoPV2005&show_icons=true&theme=tokyonight&locale=es)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlbertoPV2005&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoPV2005&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlbertoPV2005&theme=tokyonight)
+
+<!-- Wakatime (requiere configuración)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlbertoPV2005)
+-->
+
+---
+
+### 🐍 Snake Contribution Grid
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/AlbertoPV2005/AlbertoPV2005/output/github-contribution-grid-snake.svg)
+
+> ⚙️ *Este gráfico requiere configurar un workflow. Puedo ayudarte si lo deseas.*
+
+---
+
+### 🏷️ Badges
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 👁️‍🗨️ Profile Views
+
+![Profile views](https://komarev.com/ghpvc/?username=AlbertoPV2005&color=blueviolet)
 
 ---
 
