@@ -65,8 +65,8 @@ I'm open to contributing to open source projects. I'd love to learn and give bac
 
 ### 🌐 Contacto | Contact
 
-- 🐦 X (Twitter): [@TuUsuario](https://twitter.com/TuUsuario)
-- 💬 Discord: AlbertoPV2005#1234 *(sustituye esto por tu tag real)*
+- 🐦 X (Twitter): [@PresiSuper](https://x.com/PresiSuper)
+- 💬 Discord: na_vi_98
 
 ---
 
