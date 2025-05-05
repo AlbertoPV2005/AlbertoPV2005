@@ -59,20 +59,14 @@ I'm open to contributing to open source projects. I'd love to learn and give bac
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlbertoPV2005&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoPV2005&layout=compact&theme=tokyonight)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlbertoPV2005&theme=tokyonight)
 
 <!-- Wakatime (requiere configuración)
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlbertoPV2005)
 -->
-
----
-
-### 🐍 Snake Contribution Grid
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/AlbertoPV2005/AlbertoPV2005/output/github-contribution-grid-snake.svg)
-
-> ⚙️ *Este gráfico requiere configurar un workflow. Puedo ayudarte si lo deseas.*
 
 ---
 
